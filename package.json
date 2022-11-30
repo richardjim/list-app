@@ -25,5 +25,8 @@
         "vue-router": "^4.1.6",
         "vue-template-compiler": "^2.6.12",
         "vuex": "^4.1.0"
+    },
+    "dependencies": {
+        "element-ui": "^2.15.12"
     }
 }
